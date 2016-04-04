@@ -1,0 +1,13 @@
+#showDetails {
+  display: none;
+}
+
+
+form {
+  max-width: 40%;
+  padding-bottom: 50px;
+}
+
+.hero {
+  text-align: center;
+}
